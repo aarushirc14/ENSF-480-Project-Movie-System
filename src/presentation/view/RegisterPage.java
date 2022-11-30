@@ -413,7 +413,7 @@ public class RegisterPage extends JPanel {
 		// CREATE BACKGROUND VIEW
 		JLabel registerBackground = new JLabel("");
 		registerBackground.setBounds(-2, -1, 1366, 768);
-		registerBackground.setIcon(new ImageIcon(RegisterPage.class.getResource("/backgroundA.png")));
+		registerBackground.setIcon(new ImageIcon(RegisterPage.class.getResource("/bg.png")));
 		add(registerBackground);
 
 	}
