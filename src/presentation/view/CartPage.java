@@ -192,7 +192,7 @@ public class CartPage extends JPanel {
 		// CREATE BACKGROUND VIEW
 		JLabel homeBackground = new JLabel("");
 		homeBackground.setBounds(-2, -1, 1366, 768);
-		homeBackground.setIcon(new ImageIcon(HomePage.class.getResource("/backgroundD.png")));
+		homeBackground.setIcon(new ImageIcon(HomePage.class.getResource("/bg.png")));
 		add(homeBackground);
 	}
 }
