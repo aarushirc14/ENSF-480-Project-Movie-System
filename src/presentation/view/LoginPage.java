@@ -193,7 +193,7 @@ public class LoginPage extends JPanel {
 		// CREATE BACKGROUND VIEW
 		JLabel loginBackground = new JLabel("");
 		loginBackground.setBounds(-2, -1, 1366, 768);
-		loginBackground.setIcon(new ImageIcon(LoginPage.class.getResource("/backgroundA.png")));
+		loginBackground.setIcon(new ImageIcon(LoginPage.class.getResource("/bg.png")));
 		add(loginBackground);
 	}
 }
