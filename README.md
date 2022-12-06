@@ -1,5 +1,7 @@
 # ENSF-480-Project-Movie-System
 
+This is a movie booking system created as the term project for ENSF 480 F22.
+
 To run this application:
 
   1. Download this repo.
