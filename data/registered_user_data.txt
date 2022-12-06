@@ -1,4 +1,0 @@
-0:A.Roychoudhury:1234:Aarushi:Roychoudhury:ar@email.com:6000:1:4:2022
-1:F.Mago:1234:Farica:Mago:fm@email.com:6001:1:12:2020
-2:R.Jannat:1234:Radia:Jannat:rj@email.com:6002:3:6:2022
-3:H.Banik:1234:Hridika:Banik:hb@email.com:6003:4:7:2022
