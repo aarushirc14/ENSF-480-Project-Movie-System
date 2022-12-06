@@ -1,0 +1,4 @@
+0;A.Roy;pwd;Aarushi;Roychoudhury;a@gmail.com;100;3;12;2023
+1;F.Mago;pwd;Farica;Mago;f@gmail.com;101;2;12;2023
+2;R.Jannat;pwd;Radia;Jannat;r@gmail.com;102;3;12;2023
+3;H.Banik;pwd;Hridika;Banik;h@gmail.com;103;4;7;2022
