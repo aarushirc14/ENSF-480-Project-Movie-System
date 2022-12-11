@@ -1,6 +1,6 @@
 # ENSF-480-Project-Movie-System
 
-This is a movie booking system created as the term project for ENSF 480 F22.
+This is a Movie Theatre Reservation App created as the term project for ENSF 480 F22. The program uses 2 design patterns: Boundary-Entity-Control and Singleton Pattern. Design documents are included.
 
 To run this application:
 
